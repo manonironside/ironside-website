@@ -70,6 +70,3 @@ highlight_name: true
 Manon Ironside is a PhD candidate in clinical science at the University of California Berkeley. She will be completing her final year in the PhD between 2022-23 as a predoctoral clinical intern at the University of California San Francisco in the Child and Adolescent Services Multicultural Clinical Training Program.
 
 Manon's research interests include selection processes during goal-directed decision making (e.g. the explore-exploit dilemma) in the context of mood disorders, and reinforcement learning across mood, anxiety, and obsessive-compulsive disorders. 
-
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
