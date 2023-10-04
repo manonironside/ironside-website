@@ -1,23 +1,25 @@
 ---
 # Display name
-title: Manon Ironside
+title: Manon Ironside, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Clinical Science
+role: Incoming Postdoctoral Researcher (Fall 2023)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California Berkeley
+  - name: University of California San Diego
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mood disorders, obsessive compulsive disorder, decision making, and computational psychiatry.
+bio: Manon Ironside, PhD
 
 # Interests to show in About widget
 interests:
+  - Complex systems
+  - Implementation of evidence-based mental health interventions
   - Reinforcement learning
   - Decision making
   - Computational Psychiatry
@@ -27,7 +29,7 @@ education:
   courses:
     - course: PhD in Clinical Science
       institution: University of California Berkeley
-      year: Expected 2023
+      year: 2023
     - course: BSc in Psychology
       institution: Eckerd College
       year: 2013
@@ -67,6 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-Manon Ironside is a PhD candidate in clinical science at the University of California Berkeley. She will be completing her final year in the PhD between 2022-23 as a predoctoral clinical intern at the University of California San Francisco in the Child and Adolescent Services Multicultural Clinical Training Program.
+Manon Ironside is an incoming postdoctoral researcher at the University of California San Diego. She completed her PhD in Clinical Science at the University of California Berkeley, and an APA-accredited predoctoral clincal psychology internship at the University of California San Francisco in the Child and Adolescent Services Multicultural Clinical Training Program.
 
-Manon's research interests include selection processes during goal-directed decision making (e.g. the explore-exploit dilemma) in the context of mood disorders, and reinforcement learning across mood, anxiety, and obsessive-compulsive disorders. 
+Manon's research interests include complex systems, selection processes during goal-directed decision making (e.g. the explore-exploit dilemma), and reinforcement learning across mood, anxiety, and obsessive-compulsive disorders. 
