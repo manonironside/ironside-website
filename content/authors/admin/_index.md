@@ -69,6 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-Manon Ironside is an incoming postdoctoral researcher at the University of California San Diego. She completed her PhD in Clinical Science at the University of California Berkeley, and an APA-accredited predoctoral clincal psychology internship at the University of California San Francisco in the Child and Adolescent Services Multicultural Clinical Training Program.
+Manon Ironside is a postdoctoral researcher at the University of California San Diego. She completed her PhD in Clinical Science at the University of California Berkeley, and an APA-accredited predoctoral clincal psychology internship at the University of California San Francisco in the Child and Adolescent Services Multicultural Clinical Training Program.
 
 Manon's research interests include complex systems, selection processes during goal-directed decision making (e.g. the explore-exploit dilemma), and reinforcement learning across mood, anxiety, and obsessive-compulsive disorders. 
